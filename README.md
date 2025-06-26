@@ -81,16 +81,21 @@ Hər gün üçün konkret tapşırıqlar və resurslar təqdim olunub ki, bu da 
 - Codecademy-də "Learn Python" kursunu tamamlayın: https://codecademy.com/learn/learn-python
 - Rəsmi Python sənədlərini oxuyun: https://www.python.org/
 - Real Python məqalələri: https://realpython.com/
+- Talk Python to Me: https://talkpython.fm/
 - "Learn Python the Hard Way" kitabını oxuyun: https://learnpythonthehardway.org
 - HackerRank Python tapşırıqları: https://www.hackerrank.com/domains/python
-- YouTube dərsi: [TheCyberMentor - Python](https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor)
+  ### YouTube dərsi:
+  - [TheCyberMentor - Python](https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor)
 
 ### Gün 43-56: Trafik Analizi
 - Wireshark University kursu: https://www.wireshark.org/#educationalContent
 - Guru99 Wireshark dərslik: https://guru99.com/wireshark-tutorial.html
 - Daniel Miessler-in TCPdump dərsliyi: https://danielmiessler.com/study/tcpdump/
 - pfSense üzərində Suricata rəhbərliyi: https://doc.pfsense.org/index.php/Suricata
-- YouTube: Wireshark və Suricata dərslikləri
+  ### YouTube dərsi:
+  - [Wireshark Tutorial](https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB)
+  - [Suricata Network IDS/IPS](https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs)
+
 
 ### Gün 57-63: Git İdarəetməsi
 - Codecademy-də "Git for Beginners" kursu: https://codecademy.com/learn/learn-git
@@ -103,14 +108,29 @@ Hər gün üçün konkret tapşırıqlar və resurslar təqdim olunub ki, bu da 
 - Elastic-in rəsmi ELK dərslikləri: https://elastic.co/learn/elastic-stack
 
 ### Gün 71-77: Bulud Platformaları
-- **GCP**: Başlanğıc mənbə: https://cloud.google.com/getting-started/
-- **AWS**: Başlanğıc mərkəz: https://aws.amazon.com/getting-started/
-- **Azure**: Rəsmi təlimlər: https://learn.microsoft.com/en-us/training/azure/
+#### GCP:
+-  "GCP Getting Started" Resurusunu araşdırın : https://cloud.google.com/getting-started/
+-  Google Cloud Platform Documentation: https://cloud.google.com/docs/
+-  Google Cloud Platform Blog: https://cloud.google.com/blog/
+-  Google Cloud Platform Community: https://cloud.google.com/community/
+-  Təcrübəli problemləri sınayın [Google Cloud Skills Boost](https://www.cloudskillsboost.google)
+
+#### AWS
+- "AWS Getting Started" Resurusunu araşdırın: https://aws.amazon.com/getting-started/
+- AWS Tutoriala nəzər salın: https://aws.amazon.com/tutorials/
+- Labaratoriyalarla öyrənin [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
+
+####  Azure
+- "Azure Fundamentals" -dan keçin: https://learn.microsoft.com/en-us/training/azure/
+- [Microsoft Learn Azure](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) labaratoriyalarını sandbox mühitləri ilə tamamlayın
 
 ### Gün 78-84: Etik Hacking
 - Hack The Box: https://hackthebox.com
 - VulnHub: https://vulnhub.com
-- YouTube: TheCyberMentor etik hacking dərsləri
+  ### Youtube dərsləri:
+  - Ethical Hacking Part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor
+  - Ethical Hacking Part 2: https://www.youtube.com/watch?v=sH4JCwjybGs&ab_channel=TheCyberMentor
 
 ### Gün 85-86: Bir Səhifəlik CV
 - CV şablonu: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
